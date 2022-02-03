@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{9D06CF97-2085-946A-97BD-5A1445381356}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CSVRead.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CSVRead.cs" Line="72" Column="61" />
+      <File FileName="Assets/Scripts/Photon/PlayerController.cs" Line="14" Column="47" />
+      <File FileName="Assets/Scripts/Photon/PhotonLobby.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ApolloHeart" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Photon" expanded="True" />
+                <Node name="CSVRead.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="988783a8-d443-43ca-9a06-06e79ac0c90f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
